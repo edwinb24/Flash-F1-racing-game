@@ -1,0 +1,59 @@
+%!Adobe-FontList 1.13
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AlienEncountersBold
+FamilyName:Alien Encounters
+StyleName:Bold
+FullName:Alien Encounters Bold
+MenuName:Alien Encounters
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\edwin_b24\Desktop\Flash Final\mis programas\Flash\Complete Game\Font\ALIEEB_.TTF
+DataFormat:sfntData
+FileLength:20140
+FileModTime:1297893504
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:VomZom
+FamilyName:VomZom
+FullName:VomZom
+MenuName:VomZom
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\edwin_b24\Desktop\Flash Final\mis programas\Flash\Complete Game\Font\vomzom.ttf
+DataFormat:sfntData
+FileLength:15236
+FileModTime:1289508552
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:voxBOX
+FamilyName:voxBOX
+StyleName:Regular
+FullName:voxBOX
+MenuName:voxBOX
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\edwin_b24\Desktop\Flash Final\mis programas\Flash\Complete Game\Font\VOX.TTF
+DataFormat:sfntData
+FileLength:8592
+FileModTime:1294677320
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
