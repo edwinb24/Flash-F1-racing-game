@@ -1,12 +1,9 @@
 ﻿# Flash-F1-racing-game
-Consist of:
-A simple two button game in which the player move a vehicle up and down to dodge obstacles.
-
+Consists of:
+This program is a simple two button game in which the player moves a vehicle up and down to dodge obstacles.
 Notes:
-Game developt with one more programmer in a week or two. Game also contain a starting menu with a place to pick songs , look at a slideshow, watch a video, and the start button.
-
+This game was developed with one more programmer in a week or two. Game also contain a starting menu with an option to pick songs, look at a slideshow, and watch a video, as well as the start button.
 Tools: Adobe Flash cs5, ActionScript 3.0
-
 Technical:
-• Game use multiple in game sounds and songs.
-• Game video and images where download from a software and added to the project.
+• The game uses multiple in-game sounds and songs.
+• The game’s video and images were downloaded from a software and added to the project.
